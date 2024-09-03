@@ -1,4 +1,5 @@
 // add all numbers in an array
+// variable argument int... 
 package project_29;
 public class Main {
     public void addAllNumbers(int... arr){

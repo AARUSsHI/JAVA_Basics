@@ -13,7 +13,9 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
+        @SuppressWarnings("unused")
         Main obj = new Main("Aarushi");
+        @SuppressWarnings("unused")
         Main obj1 = new Main("Aarushi", 20);
 
         input.close();
